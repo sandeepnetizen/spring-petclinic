@@ -15,7 +15,7 @@ Clone the repo:
 ```
 This project packages a restributable Maven Wrapper. Maven installation is not required to run this project.
 
-You can use the built-in Maven Wrapper to run Petclinic:
+You can use the built-in Maven Wrapper to run Petclinic:::
 
 On Linux
 ```
